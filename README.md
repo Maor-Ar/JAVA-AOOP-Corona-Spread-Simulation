@@ -25,6 +25,40 @@
    *  **Implementation of complex Design Patterns (documented on 'DP implementations.docx' file)** 
    * **and Java in general .**
 
+
+# Some Pictures...
+<h3> Main Window </h3>
+        In the main window you can perform a number of actions such as:<br> Map loading, simulation start, 
+        simulation speed control and switching to other windows in the application.<br>  <br> 
+ <img src="https://github.com/NeriyaZudi/COVID-19-Virus-Simulation/blob/master/pictures/main%20window.png" align="center" 
+      alt="main win"  width="800" height="400"><br>
+  <h3> Map View </h3>
+       The settlements can be seen by locations as well as each settlement is represented by its ramzor color <br>
+       and settlements that are connected to each other<br>  <br> 
+ <img src="https://github.com/NeriyaZudi/COVID-19-Virus-Simulation/blob/master/pictures/start.png" align="center"
+     alt="start" width="600" height="400"><br>
+  <h3> Simulation in action </h3>
+       Running simulation includes: adhesions, transition between settlements, recovery and death.<br>
+       The simulation speed can be controlled in the lower spinner.<br>
+       The map is updated in real time<br>  <br>
+       <img src="https://github.com/NeriyaZudi/COVID-19-Virus-Simulation/blob/master/pictures/run.png" align="center"
+     alt="run" width="600" height="400"><br>
+  <h3> Statistics window </h3>
+      The statistics window displays data for each settlement on the map. <br>
+      The table can be exported to a log file (opened using excel software).<br>
+      Sicks people can be added using the "Add sick" button. <br>
+      Vaccine doses can be sent for a specific settlement using the "Vaccinate" button. <br>
+      The data in the table is updated in real time.<br>  <br> 
+      <img src="https://github.com/NeriyaZudi/COVID-19-Virus-Simulation/blob/master/pictures/stats.png" align="center"
+      alt="stats" width="700" height="400"><br>
+      <h3>  Mutation Editing window </h3>
+      In the Mutation Edit window you can select variants of the virus. <br>  <br>  
+      <img src="https://github.com/NeriyaZudi/COVID-19-Virus-Simulation/blob/master/pictures/edit%20mut.png" align="center"
+      alt="edit" width="600" height="400">
+
+
+
+
 Feel free to use this code for any porpuse <sup> (Please do not misuse for malicious intent) </sub>
 
 
